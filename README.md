@@ -1,2 +1,2 @@
 # python-games
-##　Examples from *Coding Projects in Python*
+Examples from *Coding Projects in Python*
